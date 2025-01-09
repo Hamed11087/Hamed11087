@@ -1,33 +1,41 @@
-<!-- <div align="left">
-  <img height="250" src="https://media.discordapp.net/attachments/1188070985484738670/1198254640274350140/ImgWeb.png?ex=65be3c98&is=65abc798&hm=1b8c29997c67f4d4a563fb3d673d6103b4ca42855ebfa4529380db1b04d718b3&=&format=webp&quality=lossless&width=1315&height=431"  />
-</div> -->
 
-###
+<h1 align="center">Hi 👋, I'm Hamed Albqis</h1>
+<h3 align="center">I'm a Computer Information Technology (CIT) student</h3>
 
-<h2 align="left">Hi 👋! My name is Hamed and I'm a Full Stack Developer</h2>
 
-###
+<br>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-</div>
+- :school: I'm a `Computer Information Technology Student` at Dammam Community College (DCC).
+- 🔭 I’m currently enhancing my skills in `C++`, `JavaScript`, `HTML`, and `CSS` as I work on various web development and programming projects.
+- 🌱 I’m currently studying `Flutter` and `C++`
+- 📫 How to reach me **hamad11087@gmail.com**
+- :thinking: :thinking: I’m currently open for internship opportunities or part-time jobs in web development or IT.
+- :nerd_face: Always `learning and exploring new technologies`.
+- 🐼 Passionate about `building web applications` and improving my `programming skills`.
+<br>
 
-###
+## 📩 Connect with me
+<p align="center">
+    <a href="mailto:hamad11087@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+    <a href="www.linkedin.com/in/hamed-albqis-2b0331326" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+</p>
 
-  <a href="www.linkedin.com/in/hamed-albqis-2b0331326" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+## 🛠 Languages and Tools
+<br>
+<p align="center">
+    <a href="https://isocpp.org/" title="C++">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a>
+<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+	<a href="https://www.w3.org/Style/CSS/" title="CSS3"><img src="https://img.shields.io/badge/css3-%23157122B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+<a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></a>
+<a href="https://visualstudio.microsoft.com/" title="Visual Studio">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
+</a>
 
-###
 
-<br clear="both">
 
-###
+</p>
