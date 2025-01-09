@@ -18,7 +18,7 @@
 ## 📩 Connect with me
 <p align="center">
     <a href="mailto:hamad11087@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
-    <a href="www.linkedin.com/in/hamed-albqis-2b0331326/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+    <a href="[www.linkedin.com/in/hamed-albqis-2b0331326/](https://www.linkedin.com/in/hamed-albqis-2b0331326/)" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
 </p>
 
 ## 🛠 Languages and Tools
