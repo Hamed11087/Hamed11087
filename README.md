@@ -8,7 +8,7 @@
 
 - :school: I'm a `Computer Information Technology Student` at Dammam Community College (DCC).
 - 🔭 I’m currently enhancing my skills in `C++`, `JavaScript`, `HTML`, and `CSS` as I work on various web development and programming projects.
-- 🌱 I’m currently studying `C++` and 'React'
+- 🌱 I’m currently studying `C++` and `React`
 - 📫 How to reach me **hamad11087@gmail.com**
 - :thinking: :thinking: I’m currently open for internship opportunities or part-time jobs in web development or IT.
 - :nerd_face: Always `learning and exploring new technologies`.
